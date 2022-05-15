@@ -159,11 +159,11 @@
     content: 'El matrimonio será transmitido en vivo para nuestras familias y amigos que no pudieron estar de manera presencial.';
     white-space: initial; }
 
-/* Mercha */
-.button.button-sponsors {
-  color: #000000;
-  background-color: #fffc00 }
-.button.button-sponsors:hover,
-.button.button-sponsors:hover:before {
-    content: 'Si quieres trabajar conmigo, patrocinando algún video en mi canal, te recomiendo que leas esta página primero.';
+/* Mail */
+.button.button-comida {
+  color: #050404;
+  background-color: #e07a7a  }
+.button.button-comida:hover,
+.button.button-comida:hover:before {
+    content: 'Revisa aquí tu lugar en la distribución de mesas.';
     white-space: initial; }
