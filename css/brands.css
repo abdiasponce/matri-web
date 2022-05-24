@@ -111,8 +111,19 @@
   background-color: #e07a7a  }
 .button.button-invitacion:hover,
 .button.button-invitacion:hover:before {
-    content: 'Jazmin Aravena Rodriguez | Rut: 19465944-k | Banco de chile | Cuenta corriente: 2501861600 | Correo: jazz.belen17@gmail.com';
+    content: 'Revive el video de invitación.';
     white-space: initial; }
+
+/* Lythium */
+.button.button-regalo {
+  color: #050404;
+  background-color: #e07a7a  }
+.button.button-regalo:hover,
+.button.button-regalo:hover:before {
+    content: 'Ver cómo dar un regalo a los novios.';
+    white-space: initial; }
+
+
 
 /* Slides */
 .button.button-slides {
